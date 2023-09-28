@@ -10,16 +10,16 @@
 6. Write the answers below the specific questions.
 
 
-## Chapter 4
+## Chapter 4.1
 
-**Question 1**.What are deep learning modelling techniques to handle textual data?
+**Question 1.** What is Seq2seq?, Write it in your own words.
 
-**Question 2**.What is RNN?Why we use them?
 
-**Question 3**.State down few problems in RNN?
+**Question 2.** What is going inside the Encoder and Decoder?
 
-**Question 4**.What is vanishing gradient and gradient explosion?
 
-**Question 5**.What is LSTM?
+**Question 3.** Create your own machine translation model with seq2seq model.
 
-**Question 6**.Benifits of LSTM over RNN
+**Question 4.** Create a text summarization  model.
+
+**Question 5.** What is Attention mechanisms?
